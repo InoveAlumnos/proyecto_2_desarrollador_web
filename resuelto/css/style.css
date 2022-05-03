@@ -76,7 +76,7 @@ h2 {
 /* ------- Seccion de bienvenida ------- */
 
 #bienvenida {
-  background-image: url("../images/background_image.jpg");
+  background-image: url("./images/background_image.jpg"), url("../images/background_image.jpg");
   height: 100vh;
   display: flex;
   flex-direction: column;
