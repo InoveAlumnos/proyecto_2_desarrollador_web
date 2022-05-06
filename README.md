@@ -19,6 +19,10 @@ Para la realización de esta página se utilizaron los siguientes recursos:
 - Textos disponibles dentro del archivo "textos.txt".
 - Íconos de fontawesome utilizando el script "fontawesome.js".
 
+# Hoja de diseño 📋
+Descargue el siguiente material con los wireframes a utilizar para armar la página:\
+[hojas de diseño](https://drive.google.com/uc?id=1iJiPIuRx_vk5a_tT9ITIP007u4nO1yJI&export=download)
+
 # Construido con 🛠️
 - Visual studio code
 - HTML5
